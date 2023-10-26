@@ -107,6 +107,33 @@ const movies = [
         price: 20.00,
         ticketsAvailable: 80
     },
+    {
+        name: "Strange way of life",
+        image: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpXr05CVlGedv1K-XgnjJGUyBw6zBp6vKKqsrrHMQZpx08kXCC",
+        date: "26/10/2023",
+        isReleased: true,
+        releaseDate: "27/10/2023",
+        price: 20.00,
+        ticketsAvailable: 50
+    },
+    {
+        name: "A porta Vermelha",
+        image: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOISJhE_E8WbUyTqEKYh1pHhwtVJ7BM5XhOCAh9lh1pxC39FI9",
+        date: "26/10/2023",
+        isReleased: true,
+        releaseDate: "28/10/2023",
+        price: 20.00,
+        ticketsAvailable: 60
+    },
+    {
+        name: "O protetor",
+        image: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYlJnqsgjDmaSENIZzFGmbP4OIoUZhSmABBV-5DjmG9OaTQtcw",
+        date: "26/10/2023",
+        isReleased: true,
+        releaseDate: "26/10/2023",
+        price: 20.00,
+        ticketsAvailable: 30
+    },
 ];
 
         const movieList = document.getElementById("movie-list");
